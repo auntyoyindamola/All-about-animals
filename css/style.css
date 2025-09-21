@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+.ImageDiv img{
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+    height: 250px;
+    object-fit: contain;
+}
+div{
+    background-color: darkkhaki;
+}
+p{
+    text-align: center;
+    font-size: 13px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+.ImageDivdog{
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
